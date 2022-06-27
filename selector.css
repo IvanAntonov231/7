@@ -1,0 +1,13 @@
+h1 {background: yellow;}
+.red {color: red;}
+#banner {color: yellowgreen;}
+*[lang^=en]{color:green;}
+*.warning {color:red;}
+ul {color: rebeccapurple;}
+p:nth-of-type(4n) {color: chocolate;}
+a:link {color: cadetblue;}
+a:visited {color: slateblue;}
+a:hover {color: salmon;}
+a:active{color: sienna;}
+p::first-line {font-style: italic;}
+p::first-letter{color: black;}
